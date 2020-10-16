@@ -1,2 +1,3 @@
 # Happy
-An app that connect people and orphaned children, bringing up happiness to their childhood
+
+An app that connects people to nearby orphanages, bringing up happiness to children`s lifes
