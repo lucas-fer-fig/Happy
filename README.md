@@ -21,4 +21,4 @@
 
 ## Overview
 
-An app that connects people to nearby orphanages, bringing up happiness to children`s lifes. Application developed at Rocketseat's Next Level Week 2.0.
+An app that connects people to nearby orphanages, bringing up happiness to children`s lifes. Application developed at Rocketseat's Next Level Week 3.0.
