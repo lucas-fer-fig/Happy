@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/happy_banner.png" height="80%" width="80%" alt="Banner Happy" />
+  <img src="./public/happy_banner.png" height="60%" width="60%" alt="Banner Happy" />
 </p>
 
 <h3 align="center">
