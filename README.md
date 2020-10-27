@@ -1,4 +1,6 @@
-# Happy
+<p align="center">
+  <img src="./public/happy_banner.png" height="40%" width="40%" alt="Banner Happy" />
+</p>
 
 <h3 align="center">
   Bring happiness to the world
