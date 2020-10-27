@@ -13,6 +13,12 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/lucas-fer-fig/Happy?color=%2329b6d1">
 </p>
 
+<h4 align="center">
+  <strong>🚧 &nbsp; Next Level Week #3 &nbsp; 🚀 &nbsp; Under construction... &nbsp; 🚧</strong>  
+</h4>
+
+<br>
+
 ## Overview
 
 An app that connects people to nearby orphanages, bringing up happiness to children`s lifes. Application developed at Rocketseat's Next Level Week 2.0.
